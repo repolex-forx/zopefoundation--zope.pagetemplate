@@ -1,0 +1,11 @@
+{
+  "org": "zopefoundation",
+  "repo": "zope.pagetemplate",
+  "versions": [
+    {
+      "commit": "f0915eb8e0eb8fe2419a3021f54eed8075fa986a",
+      "tag": "",
+      "parsed_at": "2026-11-06T01:32:48.221027+00:00"
+    }
+  ]
+}
